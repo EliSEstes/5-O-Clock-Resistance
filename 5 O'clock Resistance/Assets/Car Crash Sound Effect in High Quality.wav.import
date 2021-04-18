@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Car Crash Sound Effect in High Quality.wav-eeb00ce450ef9d8b7a3a19a89dd83269.sample"
+
+[deps]
+
+source_file="res://Assets/Car Crash Sound Effect in High Quality.wav"
+dest_files=[ "res://.import/Car Crash Sound Effect in High Quality.wav-eeb00ce450ef9d8b7a3a19a89dd83269.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
